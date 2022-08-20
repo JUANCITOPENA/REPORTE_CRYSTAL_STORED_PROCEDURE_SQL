@@ -7,6 +7,8 @@ Imaginesmos que en la  Empresa donde trabajas te han asignado una tarea para que
 
 ### Te piden que lo hagas lo mas rapido posible y que recuerdes agregarle la opcion de fecha inicial y fecha final, y que puedan guardar a PDF o exportar a Excel, etc. 
 
+![ ](PLAYLIST/ReproductorMusic2.png)
+
 ## 📚 MANUAL DOCUMENTADO:
 https://docs.google.com/presentation/...
 
